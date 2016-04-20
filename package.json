@@ -1,0 +1,102 @@
+{
+  "_args": [
+    [
+      "functional.js",
+      "/home/mike/Projects/scanthis-docker"
+    ]
+  ],
+  "_from": "functional.js@latest",
+  "_id": "functional.js@0.7.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/functional.js",
+  "_nodeVersion": "4.1.2",
+  "_npmUser": {
+    "email": "leee@hotmail.co.uk",
+    "name": "leecrossley"
+  },
+  "_npmVersion": "2.14.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "functional.js",
+    "raw": "functional.js",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/functional.js/-/functional.js-0.7.1.tgz",
+  "_shasum": "ddcb7e0af184243313397d4eff802c24cfb81264",
+  "_shrinkwrap": null,
+  "_spec": "functional.js",
+  "_where": "/home/mike/Projects/scanthis-docker",
+  "author": {
+    "email": "leee@hotmail.co.uk",
+    "name": "Lee Crossley",
+    "url": "http://ilee.co.uk/"
+  },
+  "bugs": {
+    "url": "https://github.com/leecrossley/functional-js/issues"
+  },
+  "contributors": [
+    {
+      "name": "Lee Crossley",
+      "email": "leee@hotmail.co.uk"
+    },
+    {
+      "name": "Ryan Roberts",
+      "email": "ryansroberts@gmail.com"
+    }
+  ],
+  "dependencies": {},
+  "description": "A functional JavaScript library that facilitates currying and point-free programming, with optional lambda expressions.",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-header": "^1.7.1",
+    "gulp-jasmine": "^2.1.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.1",
+    "jshint": "^2.8.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "ddcb7e0af184243313397d4eff802c24cfb81264",
+    "tarball": "https://registry.npmjs.org/functional.js/-/functional.js-0.7.1.tgz"
+  },
+  "engines": {
+    "node": ">= 0.8.x"
+  },
+  "gitHead": "f183b364dc5b9b70a1276fbb63bb35ab1ed6f19d",
+  "homepage": "http://functionaljs.com",
+  "keywords": [
+    "arity",
+    "compose",
+    "curry",
+    "functional",
+    "iterator",
+    "lambda",
+    "underscore"
+  ],
+  "main": "functional.min.js",
+  "maintainers": [
+    {
+      "name": "leecrossley",
+      "email": "leee@hotmail.co.uk"
+    }
+  ],
+  "name": "functional.js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/leecrossley/functional-js.git"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "version": "0.7.1"
+}
